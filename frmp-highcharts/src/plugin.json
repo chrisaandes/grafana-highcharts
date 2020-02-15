@@ -1,0 +1,28 @@
+{
+  "type": "panel",
+  "name": "Highcharts",
+  "id": "frmp-highcharts",
+  "info": {
+    "description": "Make your data come alive",
+    "author": {
+      "name": "farmapp",
+      "url": "https://github.com/farmappweb"
+    },
+    "keywords": [ ],
+    "logos": {
+      "small": "assets/logo.svg",
+      "large": "assets/logo.svg"
+    },
+    "links": [{
+      "name": "Homepage",
+      "url": "https://github.com/"
+    }],
+    "screenshots": [ ],
+    "version": "0.0.2",
+    "updated": "2019-01-23"
+  },
+  "dependencies": {
+    "grafanaVersion": "5.4.3",
+    "plugins": [ ]
+  }
+}
