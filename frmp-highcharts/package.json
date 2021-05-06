@@ -25,6 +25,6 @@
     "webpack": "3.6.0"
   },
   "dependencies": {
-    "highcharts": "7.0.2"
+    "highcharts": "9.0.0"
   }
 }
